@@ -65,7 +65,7 @@ import 'package:path_provider/path_provider.dart';</pre>
 
 
 
-## For refernece
+## For referenece
 
 ![Alt Text](https://github.com/Anup2712/Sharescreenshot/blob/master/flow.gif)
 
